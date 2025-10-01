@@ -1,0 +1,11 @@
+Art. 4º: FORMA, PRESENTACION y APERTURA DE LAS PROPUESTAS: Las propuestas serán presentadas en sobres cerrados y se admitirán hasta el día y hora fijados para la apertura de las mismas. Estas deberán entregarse personalmente en !a Secretaría ..............................................bajo recibo, estableciendo claramente en el sobre la licitación a la que corresponde, como así también el día y la hora de la apertura. Tales propuestas deberán estar escritas a máquina y cada hoja será rubricada por el oferente. la oferta especificará claramente el precio unitario y total. Las enmiendas y raspaduras deberán ser debidamente salvadas al pie de la misma.
+La entrega de la oferta deberá ir acompañada de:
+a) El sellado de la compra del pliego de condiciones.
+b) El depósito en garantía de su oferta, el cual se efectuará a la orden de la Municipalidad
+de Rosario equivalente al 1 %(uno por ciento) del monto del presupuesto oficial o valor base de la licitación que se estipula en pesos.
+El que resultare adjudicatario, elevará el depósito al 5% (cinco por ciento) del monto adjudicado, en garantía del cumplimiento de las obligaciones emergentes del contrato. los depósitos en garantía señalados precedentemente, podrán constituirse de la siguiente forma:
+a-) Póliza de seguro de caución.
+b-) Depósito en pesos que deberá efectuarse en la CAJA ADUANA dependiente de la TESORERIA GENERAL, cita en calle Urquiza Nº 902, planta baja.
+c-) Depósito en dólares estadounidenses a efectuarse en el BANCO MUNICIPAL DE ROSARIO en la Caja de Ahorro en Dólares Nº 20-211/34, el que será ingresado posteriormente en la CAJA ADUANA.
+d-) Títulos Públicos con cláusula de ajuste en dólares estadounidenses que se evaluarán según la cotización tipo vendedor al último día hábil anterior a su presentación, en la CAJA ADUANA de la TESORERIA GENERAL.
+e-) Fianza en dólares estadounidenses otorgada por institución bancaria u otra entidad financiera a sastifacción del Departamento Ejecutivo., En caso de contituirse el Depósito en Garantía por Fianza otorgada por una institución bancaria y/o financiera, las mismas deberán constituir domicilio en la ciudad de Rosario y someterse a la jurisdicción de los Tribunales de Rosario.

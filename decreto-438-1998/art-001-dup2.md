@@ -1,0 +1,1 @@
+Art. 1º: OBJETO: La Municipalidad de Rosario llama a Licitación Pública para: ..................................en un todo de acuerdo a las especificaciones técnicas y detalles obrantes en el pliego de condiciones particulares, agregado al presente y que forma parte del mismo.

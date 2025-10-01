@@ -1,0 +1,2 @@
+Art. 6º: FORMA DE COTIZAR: Las ofertas podrán hacerse en peso y/o dólares, teniendo en cuenta en este último caso que la Municipalidad pagará en pesos convertibles con el tope previsto en el art. 1 de la Ley 23.928/91, y/o dólares estadounidenses (si así lo expresara la factura) a criterio del municipio.
+Los oferentes deberán hacer sus propuestas incluyendo en el precio el Impuesto al Valor Agregado sin discriminar dada la condición de la Municipalidad ante el citado impuesto, siempre que corresponda por estar gravado el bien o servicio que se contrate.

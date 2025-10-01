@@ -1,0 +1,2 @@
+ARTÍCULO 13º: -ANEXO X CONFORMACIÓN y FUNCIONES DE LAS JUNTAS DE COMPRAS EN LA SECRETARÍA DE SALUD PÚBLICA.
+Tendrán la misma conformación que las indicadas en el anexo IX, debiéndose constituir una por cada Unidad de Organización que administre fondos descentralizados de dicha Secretaría, siendo sus funciones las establecidas en los puntos 1 al 6 del anexo mencionado y aconsejarán en cada caso a la Dirección Médica Administrativa de cada Unidad de Organización.

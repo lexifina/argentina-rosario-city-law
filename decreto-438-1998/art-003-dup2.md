@@ -1,0 +1,1 @@
+Art. 3º: APERTURA DE LA LICITACION: La apertura de la presente licitación pública se llevará a cabo el día...... del mes de ...............del ...............año.......a las horas en la Secretaría de............................................., o el primer día hábil siguiente, a la misma hora, si éste resultare feriado.
