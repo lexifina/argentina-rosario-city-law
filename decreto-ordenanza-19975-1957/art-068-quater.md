@@ -1,0 +1,1 @@
+Artículo 68° quater.- Oferta Única. En el caso de oferta única no será de aplicación lo estipulado en el Artículo 1° de la Ordenanza N° 2.650 y sus modificatorias. (Artículo incorporado por el Art. 9° de la Ordenanza N° 10.719).
