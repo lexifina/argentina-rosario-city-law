@@ -1,0 +1,1 @@
+ARTICULO 105º.- Los integrantes de la Junta Examinadora deberán pertenecer a categorías superiores a las correspondientes al cargo a proveer. Cuando no existieran candidatos que reúnan los requisitos señalados, podrá designarse a agentes que pertenezcan a la misma categoría.

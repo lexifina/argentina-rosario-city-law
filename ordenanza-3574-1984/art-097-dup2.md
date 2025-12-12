@@ -1,0 +1,1 @@
+ARTICULO 97º.- En los concursos, los antecedentes serán presentados por los interesados en sobres cerrados y firmados, al respectivo Servicio de Personal, el que dispondrá su traslado a la Junta Examinadora, con carácter de trámite reservado dentro de las veinticuatro (24) horas de la fecha de cierre de inscripción.

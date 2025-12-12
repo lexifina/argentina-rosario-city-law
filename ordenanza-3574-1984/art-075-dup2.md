@@ -1,0 +1,1 @@
+ARTICULO 75º.- El personal que cumpla horarios inferiores a los establecidos en el presente, percibirá una remuneración proporcional al tiempo trabajado, con relación a la prevista para la Categoría respectiva en jornada normal.

@@ -1,0 +1,1 @@
+ARTICULO 98º.- Cuando se trate de concursos internos, dicho plazo se extenderá veinticuatro (24) horas más para la remisión a la Junta Examinadora actuante, de los legajos personales de los aspirantes que revisten en la repartición, a los efectos de la confrontación de los datos y los antecedentes que registren.

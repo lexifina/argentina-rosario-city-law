@@ -1,0 +1,1 @@
+ARTICULO 74º.- A la asignación de la categoría corresponderá una prestación horaria de treinta y cinco (35) horas semanales para las categorías uno (1) a dieciocho (18) y de treinta y nueve (39) horas semanales para las restantes.

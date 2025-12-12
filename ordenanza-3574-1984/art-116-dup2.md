@@ -1,0 +1,2 @@
+ARTICULO 116º.- Dentro de los seis (6) meses de formalizada la designación o promoción del personal permanente, las bajas que se produzcan por algunas de las causales contenidas en el Estatuto de Estabilidad para el Personal de las Municipalidades y Comunas de la Provincia de Santa Fe, o no presentación del postulante elegido, podrán ser cubiertas en forma automática por los que siguen en el orden de mérito asignado por la Junta Examinadora en los respectivos concursos, sin necesidad de efectuar nuevos llamados.
+DISPOSICIONES GENERALES

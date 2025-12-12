@@ -1,0 +1,1 @@
+ARTICULO 102º.- La calificación en los concursos de oposición y antecedentes, será numérica de cero (0) a diez (10) puntos, debiéndose determinar en el respectivo pliego de llamado a concurso, la valorización numérica a asignarse a los ponderables del artículo 95.

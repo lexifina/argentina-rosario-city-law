@@ -1,0 +1,6 @@
+ARTICULO 101º.- Las pruebas escritas se ajustarán al siguiente procedimiento:
+a) Las juntas examinadoras presidirán en pleno el desarrollo del examen;
+b) Una vez comprobada la identidad de los aspirantes, se les entregarán las hojas necesarias de papel oficial selladas y firmadas por todos los miembros de la Junta;
+c) En presencia de los aspirantes, la Junta Examinadora extraerá uno (1) de los tres (3) sobres con los temas remitidos al efecto por el Instituto Municipal o Comunal de Administración Pública, reservando los restantes no utilizados para su posterior devolución al citado organismo;
+d) La Junta Examinadora pondrán en conocimiento de los concursantes el tema contenido en el sobre extraído y previo al comienzo de la prueba se dispondrá de un tiempo prudencial para que los aspirantes soliciten las aclaraciones que estimen oportunas, las que serán evacuadas en forma conjunta por los examinadores y dirigidas a los aspirantes en general, para que todos tomen conocimiento. Una vez dado por iniciado el examen, que tendrá una duración máxima de dos (2) horas, los participantes no podrán formular consultas en relación con el tema a desarrollar;
+e) Al finalizar la prueba el examinado firmará cada una de las hojas que haya utilizado y las devolverá juntamente con las no utilizadas.

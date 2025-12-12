@@ -1,0 +1,1 @@
+ARTICULO 86º.- Cada repartición, excepto la descentralizada, o autárquica que lo harán por sí misma, someterán a la aprobación de la autoridad municipal o comunal el perfil de conocimientos y habilidades que se exigirán a los aspirantes, a los fines del artículo 79.

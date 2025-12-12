@@ -1,0 +1,1 @@
+ARTICULO 110º.- En el caso de que en opinión de la Junta Examinadora, los candidatos no reunieran las condiciones requeridas para el desempeño de los cargos concursados, o no se hubieran presentado aspirantes, propondrán a la superioridad se declare desierto el concurso.

@@ -1,0 +1,1 @@
+ARTICULO 133º.- Los sueldos básicos de categoría a aplicar desde el 1 de julio de 1983, serán las determinadas por la Ley Nro. 9279 para el personal escalafonario de la Administración Pública Provincial - Decreto 2695/83 -, tomándose como importes a cuenta de la misma los liquidados conforme a la Ley Nro. 9276.

@@ -1,0 +1,1 @@
+ARTICULO 123º.- Para la determinación de la entidad gremial más representativa a que este Escalafón se refiere, además de la subsistencia de la personería gremial, deberá acreditar que posee la mayor cantidad de afiliados, tomando como base para esto, los descuentos que por cuota de afiliación sindical, se realicen en planilla de sueldos.

@@ -1,0 +1,1 @@
+ARTICULO 114º.- La interposición de reclamos interrumpirá el trámite por el término de diez (10) días, de designaciones referidas a los cargos cuestionados, el que continuará una vez que haya quedado firme el fallo respectivo.

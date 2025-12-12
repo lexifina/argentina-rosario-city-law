@@ -1,0 +1,1 @@
+ARTICULO 69º.- Personal de Residencia: Establécese para los agentes que realicen en la Residencia del señor Intendente Municipal o Presidente Comunal, tareas de limpieza y ordenamiento de ambientes, atención del servicio de comedor, teléfono, portería, un adicional equivalente al 20% de la asignación de la Categoría de revista.

@@ -1,0 +1,1 @@
+ARTICULO 9º.- Producida una vacante en el tramo de promoción automática de cualquiera de los agrupamientos previstos en el presente régimen, el cargo presupuestario de la vacante se transformará automáticamente en la categoría de ingreso prevista para cada uno de los agrupamientos o tramos de los mismos.

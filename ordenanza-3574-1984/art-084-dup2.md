@@ -1,0 +1,1 @@
+ARTICULO 84º.- Los llamados a concurso interno se darán a conocer en la jurisdicción respectiva, mediante circulares informativas emitidas por los correspondientes Servicios de Personal, que deberán ser notificadas a todos los agentes, para participar en los mismos.

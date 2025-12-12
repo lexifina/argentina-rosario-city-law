@@ -1,0 +1,1 @@
+ARTICULO 3º.- El ingreso a este Escalafón se hará previa acreditación de las condiciones establecidas por el Estatuto para el Personal de Municipalidades y Comunas y cumplimiento de los requisitos que para cada agrupamiento o tramo se establecen en el presente.

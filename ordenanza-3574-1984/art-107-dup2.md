@@ -1,0 +1,1 @@
+ARTICULO 107º.- Cualquier miembro de la Junta Examinadora, podrá excusarse de intervenir en la misma, cuando mediaren las causas establecidas en el Código de Procedimientos Civil y Comercial de la Provincia o existieren motivaciones atendibles de orden personal. Asimismo dichos miembros podrán ser recusados de conformidad a los artículos 9), 10) y 11) del mencionado Código.

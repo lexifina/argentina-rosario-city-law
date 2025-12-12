@@ -1,0 +1,1 @@
+ARTICULO 87º.- El acto aprobatorio respectivo, será remitido al Instituto Municipal o Comunal de Administración Pública, quien deberá confeccionar a requerimiento de los organismos y en oportunidad de un llamado a concurso, los temas de exámenes que serán utilizados al efecto.

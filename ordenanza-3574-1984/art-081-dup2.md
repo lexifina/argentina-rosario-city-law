@@ -1,0 +1,1 @@
+ARTICULO 81º.- La realización de los concursos será dispuesta por la autoridad municipal o comunal y titulares de los Organismos descentralizados o autárquicos, y en el mismo acto deberá dejarse constituida la o las juntas examinadoras. Los llamados deberán realizarse por intermedio de los Servicios de Personal correspondiente.

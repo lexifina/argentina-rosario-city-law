@@ -1,0 +1,1 @@
+ARTICULO 8º.- Las promociones de carácter automático previstas en los diferentes agrupamientos, se concretarán en todos los casos y para todo el personal comprendido, el día 1 de enero siguiente a aquél en que cumplan los requisitos establecidos en cada caso.

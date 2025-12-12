@@ -1,0 +1,1 @@
+ARTICULO 47º.- La retribución del agente se compone del Sueldo Básico correspondiente a su categoría, de los Adicionales Generales y Particulares y de los Suplementos que correspondan a su situación de revista y condiciones especiales.

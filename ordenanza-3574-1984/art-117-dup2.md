@@ -1,0 +1,1 @@
+ARTICULO 117º.- Cuando en este Escalafón se indican denominaciones o funciones para las distintas categorías, las mismas son indicativas y no excluyentes de otras que pueden merecer las mismas valoraciones.

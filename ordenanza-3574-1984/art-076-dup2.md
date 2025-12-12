@@ -1,0 +1,1 @@
+ARTICULO 76º.- Las Asignaciones de Adicionales Generales, Adicionales Particulares y Suplementos tienen el carácter de reintegro de gastos derivados del ejercicio de las funciones mereciendo el tratamiento respectivo.

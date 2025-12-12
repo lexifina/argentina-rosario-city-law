@@ -1,0 +1,2 @@
+ARTICULO 79º.- La cobertura de vacantes se efectuará mediante el sistema de concursos, salvo en aquellos casos que se produzcan por aplicación del régimen de promoción automática, prevista en el presente escalafón y el cambio de destino o transferencia de personal de igual categoría y agrupamiento prevista en el Estatuto para el Personal de las Municipalidades y Comunas de la Provincia de Santa Fe.
+Las convocatorias deberán realizarse dentro de los sesenta (60) días de producidas las vacantes.

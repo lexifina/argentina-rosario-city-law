@@ -1,0 +1,4 @@
+ARTICULO 2º
+(Observación parcial aceptada por Ordenanza Nº. 3583/84)
+CLASIFICACION DEL PERSONAL
+1 - PERSONAL PERMANENTE

@@ -1,0 +1,2 @@
+ARTICULO 55º.- Riesgo y tareas peligrosas: Corresponderá percibir este suplemento a los agentes que desempeñen funciones cuya naturaleza implique la realización, en forma permanente, de acciones o tareas en las que se ponga en peligro cierto la integridad psicofísica. Su monto será equivalente al veinte por ciento (20%) de la asignación de la categoría de revista.
+Estas funciones serán determinadas por la autoridad Municipal o Comunal con intervención del Organismo Gremial.

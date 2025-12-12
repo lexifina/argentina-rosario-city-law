@@ -1,0 +1,1 @@
+ARTICULO 89º.- La preparación de los temas y la correspondiente tramitación, tendrá carácter de estricta reserva y toda infidencia al respecto dará lugar a la instrucción de un sumario administrativo tendiente a establecer las consiguientes responsabilidades.

@@ -1,0 +1,1 @@
+ARTICULO 106º.- Si no se pudiera lograr la constitución de la Junta Examinadora en la forma establecida en los artículos 104 y 105, se solicitará la colaboración de otras jurisdicciones regidas por el presente Escalafón a efectos que faciliten funcionarios que llenen esas condiciones o funcionarios nacionales o provinciales.
