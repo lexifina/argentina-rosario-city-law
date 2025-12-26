@@ -1,0 +1,8 @@
+Artículo 12° bis. - RÉGIMEN SIMPLIFICADO. Las personas humanas, incluyendo aquellas que se identifiquen como integrantes de una Sociedad de las que se encuentran alcanzadas por lo establecido en la Sección IV: "De las Sociedades no constituidas según los tipos del Capítulo II y otros supuestos" de la Ley General de Sociedades N° 19.550 que posean un único local en la jurisdicción del municipio cuya cantidad de empleados en relación de dependencia no supere las tres (3) personas y que no se encuentren alcanzados por las disposiciones de Convenio Multilateral podrán tributar conforme las pautas del Régimen Simplificado que se enuncian en los artículos siguientes, debiendo adherirse a tal fin, en las condiciones que establezca el Departamento Ejecutivo Municipal.
+Los sujetos referidos deberán además cumplir con las siguientes condiciones:
+a. Que sus ingresos brutos totales devengados en el municipio no hayan superado los pesos setenta y siete millones cuatrocientos veintiseis mil siete ($77.426.007) en los últimos 12 meses calendarios anteriores. Deberán a tal efecto considerarse los ingresos gravados, no gravados y exentos por el tributo.
+b. Que no superen en el período citado en el apartado anterior la superficie máxima establecida en el artículo 12° ter.
+c. Que no realicen importaciones de bienes y/o de servicios.
+d. Que no se encuentren alcanzados por las previsiones de los Artículos 9° y 11° de la Ordenanza General Impositiva.
+e. Que no sean sujetos alcanzados por el derecho definido en el punto 2 del artículo 122° del Código Tributario Municipal ni empresas conservadoras de ascensores y medios de elevación.
+(Artículo modificado por el Art. 15° de la Ordenanza N° 10.872).

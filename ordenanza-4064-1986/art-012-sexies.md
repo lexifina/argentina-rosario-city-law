@@ -1,0 +1,2 @@
+Artículo 12° sexies. - La inscripción deberá realizarse a la fecha de inicio de actividades del local, debiendo abonarse inclusive el periodo relativo al inicio sin prorrateo. El Departamento Ejecutivo Municipal deberá reglamentar la fecha de vencimiento del pago de la cuota mensual del presente régimen. La falta de pago en término dará lugar a la aplicación de los intereses previstos en el CAPÍTULO X BIS del Código Tributario Municipal.
+(Artículo incorporado por el Art. 1° de la Ordenanza N° 8.364).
