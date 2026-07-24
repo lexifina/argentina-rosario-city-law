@@ -1,0 +1,1 @@
+Artículo 1°. - ÁMBITO DE APLICACIÓN. Este Código regula el uso de la vía pública y es de aplicación a la circulación de personas, animales y vehículos terrestres en la vía pública, y a las actividades vinculadas con el transporte, los vehículos, las personas, las concesiones viales, la estructura vial y el medio ambiente en cuanto fuere pertinente.
