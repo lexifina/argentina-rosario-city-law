@@ -1,0 +1,2 @@
+Artículo 52° bis. - La falta total o parcial de pago de los tributos y sus adicionales en los términos establecidos en este Código o en la normativa fiscal correspondiente, devengará sin necesidad de interpelación alguna y desde sus respectivos vencimientos, la obligación de abonar sobre ellos y conjuntamente con los mismos el interés resarcitorio que fije la Ordenanza Impositiva y/o las normas que en consecuencia se emitan.
+Los intereses se devengarán sin perjuicio de las sanciones fiscales que pudieren corresponder.

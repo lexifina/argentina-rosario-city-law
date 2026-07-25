@@ -1,0 +1,1 @@
+Artículo 52° ter. - La obligación de pago de los intereses resarcitorios subsiste aún ante la omisión de formular reservas por parte del Organismo Fiscal a1 percibir el pago de la deuda principal, excepto que hubiera transcurrido el término de la prescripción liberatoria de ésta.

@@ -1,0 +1,1 @@
+Artículo 1°. - CONTENIDO: Las obligaciones fiscales que establezca este Municipio de conformidad con las leyes fundamentales de su esfera de competencia, se regirán por este Código Tributario y las Ordenanzas Fiscales Complementarias que oportunamente se dicten. Tales obligaciones consistirán en Tasas, Derechos y Contribuciones de Mejoras.

@@ -1,0 +1,3 @@
+Artículo 40° bis. - INFRACCIONES FORMALES. DESCARGO. Las multas por infracciones a los deberes formales serán aplicadas previo acto de verificación o intimación efectuada al contribuyente. Contra ésta podrá articularse un descargo por escrito dentro de los diez (10) días hábiles de su notificación.
+Facúltase al Organismo Fiscal a no realizar el procedimiento establecido en el presente artículo, cuando el contribuyente o responsable reconozca y abone espontáneamente, dentro de los plazos establecidos en el artículo 40, el importe de multa que se le indique a tal efecto, siendo aplicable también en este supuesto las reducciones de las sanciones previstas en dicho artículo.
+(Artículo incorporado por el Art. 2° de la Ordenanza N° 9686/16).

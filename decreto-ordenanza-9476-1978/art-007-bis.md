@@ -1,0 +1,1 @@
+Artículo 7° bis. - Las normas fiscales serán obligatorias a partir de los diez (10) días a contar de su publicación en el Boletín Oficial; excepto que la propia disposición establezca un plazo de vigencia inicial diferente. (Artículo incorporado por el Art. 7° de la Ordenanza N° 7.948).

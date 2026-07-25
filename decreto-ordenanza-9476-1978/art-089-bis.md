@@ -1,0 +1,3 @@
+Artículo 89° bis. – Sin perjuicio del ajuste correspondiente y de la multa por omisión prevista por el artículo 41° del Código Tributario Municipal, los contribuyentes que omitan recategorizarse de conformidad a los requisitos del régimen dispuesto por el artículo 12° bis y siguientes de la OGI y/o de la reglamentación que emita el Departamento Ejecutivo Municipal, serán pasibles de una multa a los deberes formales equivalente a cuatro veces el valor establecido en el artículo 10° inc. a) de la Ordenanza General Impositiva. (Artículo modificado por el Art. 4° de la Ordenanza N° 10578/23).
+CAPÍTULO III
+DERECHOS DE CEMENTERIO

@@ -1,0 +1,3 @@
+Artículo 54° bis. - SUSTANCIACIÓN. Interpuesto en término el recurso de reconsideración, el Organismo Fiscal elevará las actuaciones al Departamento Ejecutivo Municipal para que, previa evacuación de los dictámenes que estime pertinentes, resuelva el recurso. El acto deberá dictarse dentro del plazo de treinta (30) días hábiles contados desde que las actuaciones se encuentren en condiciones de resolver.
+El acto del Departamento Ejecutivo Municipal recaído sobre el recurso de reconsideración agota la vía administrativa y no procederá contra el mismo recurso alguno, salvo pedido de aclaración.
+(Artículo incorporado por el Art. 2° de la Ordenanza N° 9686/16).
