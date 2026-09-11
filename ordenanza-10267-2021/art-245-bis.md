@@ -1,0 +1,3 @@
+Art. 245° bis.- Avisos publicitarios Corredores Inmobiliarios: Serán penados con multas de 75 UF a 500 UF los corredores inmobiliarios y/o el medio mediante el cual se concrete la publicidad de los mencionados en el artículo 2° de la Ordenanza N° 10.303, que no cumplan con los requisitos establecidos para la publicación de los respectivos anuncios, según la normativa específica que así lo establece.
+En el caso que dicha publicidad ilegal sea realizada por personas sin matrícula COCIR activa como corredores inmobiliarios, el mínimo y el máximo se incrementarán el doble.
+(Artículo incorporado por el Art. 6° de la Ordenanza N° 10.303/21).
