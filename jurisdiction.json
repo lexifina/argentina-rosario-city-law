@@ -1,0 +1,11 @@
+{
+  "path": "ar-s-rosario",
+  "code": "AR-S-ROSARIO",
+  "name": "Rosario",
+  "level": "municipality",
+  "parent": "ar-s",
+  "repo": "https://github.com/lexifina/argentina-rosario-city-law",
+  "build": "built: municipal ordinances (8 ordinances, 8 versions) from https://www.rosario.gob.ar/mr/normativa",
+  "language": "es",
+  "sources": 1
+}

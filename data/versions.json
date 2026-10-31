@@ -1,0 +1,117 @@
+{
+ "country": "AR-S-ROSARIO",
+ "acts": [
+  {
+   "slug": "ordenanza-10850-2025",
+   "short": "Ordenanza 10850/2025",
+   "title": "Ordenanza 10850/2025: Autonomía municipal",
+   "url": "https://www.rosario.gob.ar/mr/normativa/autonomia-municipal/ordenanza-nb0-10850-2025",
+   "versions": [
+    {
+     "from": "2026-08-30",
+     "units": 102,
+     "source_url": "https://www.rosario.gob.ar/mr/normativa/autonomia-municipal/ordenanza-nb0-10850-2025",
+     "sha256": "f9fde8ca7287887a80459ab8549d6e179e506f213c345afe8a0a5e6ab1fe90ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-10267-2021",
+   "short": "Ordenanza 10267/2021",
+   "title": "Ordenanza 10267/2021: Código de Convivencia Ciudadana",
+   "url": "https://www.rosario.gob.ar/mr/normativa/codigo-de-convivencia-ciudadana/ordenanza-no-10267-2021",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 352,
+     "source_url": "https://www.rosario.gob.ar/mr/normativa/codigo-de-convivencia-ciudadana/ordenanza-no-10267-2021",
+     "sha256": "58ad662039e317e530653fbcea49f7b701684c84de9899493e52bd583361f008"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6543-1998",
+   "short": "Ordenanza 6543/1998",
+   "title": "Ordenanza 6543/1998: Código de Tránsito",
+   "url": "https://www.rosario.gob.ar/mr/normativa/codigo-de-transito/ordenanza-no-6543-1998",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 71,
+     "source_url": "https://www.rosario.gob.ar/mr/normativa/codigo-de-transito/ordenanza-no-6543-1998",
+     "sha256": "10cc82c3e0908065deaad4652864fec237ee817cb5604eb175c6cad06e2636c2"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-ordenanza-9476-1978",
+   "short": "Decreto-Ordenanza 9476/1978",
+   "title": "Decreto-Ordenanza 9476/1978: Código Tributario Municipal",
+   "url": "https://www.rosario.gob.ar/mr/normativa/codigo-tributario/decreto-ordenanza-9476-1978",
+   "versions": [
+    {
+     "from": "2026-07-25",
+     "units": 174,
+     "source_url": "https://www.rosario.gob.ar/mr/normativa/codigo-tributario/decreto-ordenanza-9476-1978",
+     "sha256": "6d5515d66afc0adfea1a91747c6a35dfa625892de2db2758d3b75f6717ef0d7b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3574-1984",
+   "short": "Ordenanza 3574/1984",
+   "title": "Ordenanza 3574/1984: Estatuto y Escalafón del Personal Municipal",
+   "url": "https://www.rosario.gob.ar/mr/normativa/estatuto-y-escalafon-del-personal-municipal/ordenanza-no-3574-1984-1",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 276,
+     "source_url": "https://www.rosario.gob.ar/mr/normativa/estatuto-y-escalafon-del-personal-municipal/ordenanza-no-3574-1984-1",
+     "sha256": "ddd93e1f89455942ea7a1f3ef3c12765b6243811d942f541c1866277fffef07c"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-ordenanza-19975-1957",
+   "short": "Decreto-Ordenanza 19975/1957",
+   "title": "Decreto-Ordenanza 19975/1957: Ordenanza de Contabilidad",
+   "url": "https://www.rosario.gob.ar/mr/normativa/ordenanza-de-contabilidad/decreto-ordenanza-no-19975-1957",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 108,
+     "source_url": "https://www.rosario.gob.ar/mr/normativa/ordenanza-de-contabilidad/decreto-ordenanza-no-19975-1957",
+     "sha256": "641bb5e8d3efc33d456988813659b17c4fda3273498f65e8b33da43afc622918"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4064-1986",
+   "short": "Ordenanza 4064/1986",
+   "title": "Ordenanza 4064/1986: Ordenanza General Impositiva",
+   "url": "https://www.rosario.gob.ar/mr/normativa/ordenanza-impositiva/ordenanza-4064-1986",
+   "versions": [
+    {
+     "from": "2025-12-26",
+     "units": 134,
+     "source_url": "https://www.rosario.gob.ar/mr/normativa/ordenanza-impositiva/ordenanza-4064-1986",
+     "sha256": "abb96e94ed6b3fa158e221b57c31ff45a131b5625018ab156b68566c24d61065"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-438-1998",
+   "short": "Decreto 438/1998",
+   "title": "Decreto 438/1998: Reglamento de Compras",
+   "url": "https://www.rosario.gob.ar/mr/normativa/reglamento-de-compras/decreto-no-438-1998",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 37,
+     "source_url": "https://www.rosario.gob.ar/mr/normativa/reglamento-de-compras/decreto-no-438-1998",
+     "sha256": "817a49cbb675c147553a76bf8e2b8aac19ae6628362b49fcf067664dad178e56"
+    }
+   ]
+  }
+ ]
+}
