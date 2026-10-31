@@ -1,0 +1,18 @@
+{
+ "parts": {
+  "20-codigos-1.json": {
+   "acts": [
+    "decreto-438-1998",
+    "decreto-ordenanza-19975-1957",
+    "decreto-ordenanza-9476-1978",
+    "ordenanza-10267-2021",
+    "ordenanza-10850-2025",
+    "ordenanza-3574-1984",
+    "ordenanza-4064-1986",
+    "ordenanza-6543-1998"
+   ],
+   "sha256": "291b3b6ef3437ae43aef4556557b60bc6bf341980bc5848e50f1557408c46697"
+  }
+ },
+ "schema": 1
+}
