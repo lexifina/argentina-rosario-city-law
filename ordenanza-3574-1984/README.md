@@ -1,6 +1,6 @@
 # Ordenanza 3574/1984: Estatuto y Escalafón del Personal Municipal
 
-Ordenanza 3574/1984 · 1 versions, from 2025-12-12 (latest in force: 2025-12-12) · <https://www.rosario.gob.ar/mr/normativa/estatuto-y-escalafon-del-personal-municipal/ordenanza-no-3574-1984-1>
+Ordenanza 3574/1984 · 1 versions, from 2025-12-03 (latest in force: 2025-12-03) · <https://www.rosario.gob.ar/mr/normativa/estatuto-y-escalafon-del-personal-municipal/ordenanza-no-3574-1984-1>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

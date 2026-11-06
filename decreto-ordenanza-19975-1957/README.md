@@ -1,6 +1,6 @@
 # Decreto-Ordenanza 19975/1957: Ordenanza de Contabilidad
 
-Decreto-Ordenanza 19975/1957 · 1 versions, from 2025-12-12 (latest in force: 2025-12-12) · <https://www.rosario.gob.ar/mr/normativa/ordenanza-de-contabilidad/decreto-ordenanza-no-19975-1957>
+Decreto-Ordenanza 19975/1957 · 1 versions, from 2025-12-03 (latest in force: 2025-12-03) · <https://www.rosario.gob.ar/mr/normativa/ordenanza-de-contabilidad/decreto-ordenanza-no-19975-1957>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

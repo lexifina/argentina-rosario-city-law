@@ -12,6 +12,13 @@
     "ordenanza-6543-1998"
    ],
    "sha256": "291b3b6ef3437ae43aef4556557b60bc6bf341980bc5848e50f1557408c46697"
+  },
+  "90-q213-commencement-correction.json": {
+   "acts": [
+    "decreto-ordenanza-19975-1957",
+    "ordenanza-3574-1984"
+   ],
+   "sha256": "65de91c2e22852281ecf5523c1c752aab95185b31abcca273f470075eaf4c9e4"
   }
  },
  "schema": 1
