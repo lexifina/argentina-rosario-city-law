@@ -1,0 +1,15 @@
+{
+"layout": "<kind>/<year>/<number>",
+"since": "2026-11-10",
+"note": "Act folders before the layout move were named by the act id (slug); paths maps each id to its folder. Ids not placed by the rule keep their folder.",
+"paths": {
+"decreto-438-1998": "decreto/1998/438",
+"decreto-ordenanza-19975-1957": "decreto-ordenanza/1957/19975",
+"decreto-ordenanza-9476-1978": "decreto-ordenanza/1978/9476",
+"ordenanza-10267-2021": "ordenanza/2021/10267",
+"ordenanza-10850-2025": "ordenanza/2025/10850",
+"ordenanza-3574-1984": "ordenanza/1984/3574",
+"ordenanza-4064-1986": "ordenanza/1986/4064",
+"ordenanza-6543-1998": "ordenanza/1998/6543"
+}
+}
